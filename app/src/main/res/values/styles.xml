@@ -16,7 +16,7 @@
         <item name="android:fontFamily">sans-serif-medium</item>
     </style>
 
-    <!-- Standard Text Style. -->
+    <!-- Standard Text Style. GitHub Test Line -->
     <style name="standardText">
         <item name="android:paddingBottom">16dp</item>
         <item name="android:paddingLeft">16dp</item>
